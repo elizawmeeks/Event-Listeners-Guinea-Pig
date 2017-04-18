@@ -1,0 +1,28 @@
+.blue {
+	color: blue;
+}
+
+.large {
+	font-size: 3em;
+}
+
+.caged {
+	border: 3px solid black;
+}
+
+.rounded {
+	border-radius: 20px;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.boldItalic {
+	font-style: italic;
+	font-weight: bold;
+}
+
+.block {
+	display: block;
+}
